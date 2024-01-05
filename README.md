@@ -1,4 +1,3 @@
-# Paulina Dyrek
 ## Hi! My name is Paulina Dyrek. 
 For 1.5 years I have decided to change my job and profession to the 
 position of Frontend Developer. Since I have devoted every moment to
